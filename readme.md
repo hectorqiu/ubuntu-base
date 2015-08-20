@@ -1,8 +1,8 @@
 # ubuntu-base docker image
 
-## About
+## About:
 
-This is a docker base on ubuntu 14.04. 
+This is a docker image base on ubuntu 14.04. 
 
 It change the following settings:
 
